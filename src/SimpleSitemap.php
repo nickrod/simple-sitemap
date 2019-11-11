@@ -1,5 +1,3 @@
-#!/usr/bin/php
-
 <?php
 
 //
@@ -449,5 +447,3 @@ function splitFile()
 
   $filecount++;
 }
-
-?>
